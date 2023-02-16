@@ -11,6 +11,9 @@ In summary, NLP is about teaching computers to understand human language, which 
 <h3><b>INTRODUCTION :</b></h3>
 <p>Natural Language Processing (NLP) is a subfield of Artificial Intelligence (AI) that focuses on the interaction between computers and human languages. NLP is used to analyze, understand, and generate natural language text and speech. The ultimate aim of NLP is to enable computers to understand and interpret human language in a way that is similar to how humans process language. By doing so, computers can perform various language-related tasks, such as language translation, speech recognition, and sentiment analysis. In short, NLP is a powerful tool that allows computers to interact with humans in a more natural and intuitive way.</p>
 <h4><b>NLP techniques are used in a wide range of applications, including:<b></h4>
+<ul>
+  <li><b>Speech recognition and transcription:</b>NLP, a branch of artificial intelligence, enables computers to interact with human language. Its goal is to make machines understand and interpret human language in a way similar to how humans process it. One of the most useful applications of NLP techniques is in speech recognition and transcription. By utilizing NLP-powered software, machines can convert spoken language into text, making it ideal for tasks like dictation or voice-controlled assistants. This allows people to dictate their thoughts or ideas more easily and can also be used to automate certain language-related tasks, thus increasing efficiency. Speech recognition and transcription are complex tasks that involve converting audio input into written text output, which can be further analyzed and processed. By leveraging NLP techniques, machines can perform these tasks with minimal errors, making it an important tool for many different industries.</li>
+</ul>
 
 
 
