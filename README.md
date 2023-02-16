@@ -10,7 +10,7 @@ In summary, NLP is about teaching computers to understand human language, which 
 </br>
 <h3><b>INTRODUCTION :</b></h3>
 <p>Natural Language Processing (NLP) is a subfield of Artificial Intelligence (AI) that focuses on the interaction between computers and human languages. NLP is used to analyze, understand, and generate natural language text and speech. The ultimate aim of NLP is to enable computers to understand and interpret human language in a way that is similar to how humans process language. By doing so, computers can perform various language-related tasks, such as language translation, speech recognition, and sentiment analysis. In short, NLP is a powerful tool that allows computers to interact with humans in a more natural and intuitive way.</p>
-
+<h4><b>NLP techniques are used in a wide range of applications, including:<b></h4>
 
 
 
