@@ -6,4 +6,12 @@ To teach computers how to understand natural language, we can train models in di
 To solve complex problems in NLP, we need to break down the process of understanding English for a model into a number of small pieces. This is called building an NLP pipeline. The pipeline has various steps, each of which contributes to the desired output at the end. However, to make the computer understand basic concepts of written language, we need to start by teaching it very basic language concepts.
 
 In summary, NLP is about teaching computers to understand human language, which is a complex and challenging task. However, by breaking down the process of understanding language into small pieces, we can build an NLP pipeline that helps the computer process natural language data.</p>
-<h3><b>INTRODUCTION</b></h3>
+</br>
+</br>
+<h3><b>INTRODUCTION :</b></h3>
+<p>Natural Language Processing (NLP) is a subfield of Artificial Intelligence (AI) that focuses on the interaction between computers and human languages. NLP is used to analyze, understand, and generate natural language text and speech. The ultimate aim of NLP is to enable computers to understand and interpret human language in a way that is similar to how humans process language. By doing so, computers can perform various language-related tasks, such as language translation, speech recognition, and sentiment analysis. In short, NLP is a powerful tool that allows computers to interact with humans in a more natural and intuitive way.</p>
+
+
+
+
+
